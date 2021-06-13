@@ -72,8 +72,8 @@ body {
 }
 
 .two{
-	height: 250px;
-	margin: 10px 0px 10px 0px;
+	height: 248px;
+	margin: 12px 0px 12px 0px;
 	width: 100%;
 	background-size: cover;
 	background-position: 30%;
@@ -92,7 +92,7 @@ body {
 	font-weight: 700;
 	font-size: 60px;
 	margin-top: 100px;
-	margin-bottom: 70px;
+	margin-bottom: 68px;
 	color: #351e15;
 }
 
@@ -126,7 +126,7 @@ body {
 	border: 1px solid #351e15;
 	border-radius: 20px;
 	text-align: left;
-	margin-right:10px; 
+	margin-right:12px; 
 }
 
 [id="heart"] {
